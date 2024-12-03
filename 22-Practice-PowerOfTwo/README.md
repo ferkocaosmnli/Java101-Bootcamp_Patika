@@ -1,13 +1,13 @@
-# Java Döngüler ve Koşul Yapıları ile Çift ve 4'ün Katlarını Toplama Programı
+# Pratik - Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program
 
-Bu projede, Java'da döngüler ve koşul yapıları kullanarak, kullanıcıdan tek bir negatif sayı girilene kadar sayılar alıp, girilen sayılardan sadece çift ve 4'e tam bölünen sayıları toplayıp ekrana yazdıran bir uygulama geliştirdim.
+Bu projede, Java'da döngüler kullanarak, kullanıcıdan girilen bir sayıdan küçük olan 2'nin kuvvetlerini hesaplayan ve ekrana yazdıran bir uygulama geliştirdim. Bu sayede, Java döngüleri ve temel matematiksel işlemleri pekiştirmiş oldum.
 
 ## 🏆 Kazanımlar:
-- **Döngü Yapıları**: Kullanıcıdan giriş alırken `while` döngüsünü kullanarak sürekli giriş yapmayı sağladım.
-- **Koşul Yapıları**: `if` koşulu ile sadece çift ve 4'e tam bölünebilen sayıları filtreleyerek bu sayıları topladım.
-- **Veri İşleme**: Kullanıcıdan alınan verileri doğru bir şekilde işleyerek istenen sonucu ekrana bastım.
+- **Döngü Yapıları**: Kullanıcıdan alınan sınır sayısına kadar olan 2'nin kuvvetlerini hesaplamak için `for` döngüsünü etkili bir şekilde kullandım.
+- **Matematiksel İşlemler**: 2'nin kuvvetlerini hesaplamak için basit çarpanlama işlemine dayalı mantığı geliştirdim.
+- **Veri İşleme**: Kullanıcıdan alınan veriyi doğru şekilde işleyip 2'nin kuvvetlerini bulup ekrana yazdırdım.
 
-Bu projede öğrendiğim en önemli konulardan biri, kullanıcı etkileşimini döngü ve koşul yapılarıyla nasıl etkili bir şekilde yönlendirebileceğimi pekiştirmem oldu.
+Bu projede öğrendiğim en önemli konulardan biri, döngülerle büyük sayıların kuvvetlerini hesaplamak ve döngülerin nasıl etkili kullanıldığına dair deneyim kazanmam oldu.
 
 ## 📸 Ekran Görüntüleri:
 <img width="1395" alt="Ekran Resmi 2024-12-03 11 15 08" src="https://github.com/user-attachments/assets/c5b41517-be03-461b-8504-07949040cb7c">
